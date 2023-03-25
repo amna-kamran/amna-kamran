@@ -10,9 +10,9 @@
 
 <h3 align="left">Connect with me </h3>
 <p align="left">
-<a href="https://twitter.com/ahmads_exe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ahmads_exe" height="30" width="40" /></a>
+<a href="https://twitter.com/jurazilG" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ahmads_exe" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/muhammad-ahmad-25155a1b0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammad-ahmad-25155a1b0" height="30" width="40" /></a>
-<a href="https://instagram.com/ahmads.exe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ahmads.exe" height="30" width="45" /></a>
+<a href="https://instagram.com/jurazil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ahmads.exe" height="30" width="45" /></a>
 </p>
 
 
