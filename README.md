@@ -14,7 +14,7 @@
 </p>
 
 <h1 align="center">-i code sometimes-</h1>
-<h3 align="center">my code bad but heart good</h3>
+<h3 align="center">bad code but good heart</h3>
 <img align="right" alt="Coding" width="400" src="https://gifimage.net/wp-content/uploads/2017/10/code-gif-7.gif">
 
 
