@@ -7,14 +7,7 @@
 </h3>
 <h1 align="center">-i code sometimes-</h1>
 
-<p align="center">
-  <samp>
-    <a ></a>
-    <br>
-    「 I am a full-stack developer & Software Engineer from <b>Pakistan 🇵🇰</b> 」
-    
-  </samp>
-</p>
+
 
 ##  About me
 - Working on **MERN, Flutter, Nextjs**   
