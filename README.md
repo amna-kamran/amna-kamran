@@ -19,9 +19,7 @@
 ##  About me
 - Working on **MERN, Flutter, Nextjs**   
 - Recently did an internship at **MRS Technologies** on an IoT based project.   
-- I am a professional digital artist and a graphic designer as well.
-- I also know biology hehe studied it for 4 years previously.
-- Got my first job at a **Tokyo** based startup and got my friends in too!
+- Got my first job at a **Tokyo** based startup!
 
 <p>This is me infront of the Tokyo tower!!</p>
 
